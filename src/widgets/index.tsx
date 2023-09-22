@@ -5,7 +5,7 @@ async function onActivate(plugin: ReactRNPlugin) {
     id: "baselight",
     title: "Base Color | Light Mode (hex)",
     description: "Provide a hex color for the base in Light Mode.",
-    defaultValue: "#C5C5CC",
+    defaultValue: "#bbd6ee",
   });
 
   plugin.track(async (reactivePlugin) => {

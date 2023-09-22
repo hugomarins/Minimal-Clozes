@@ -1,11 +1,11 @@
 {
   "manifestVersion": 1,
-  "id": "Anisha-MinimalClozes",
-  "name": "Minimal Clozes",
-  "author": "Anisha",
-  "repoUrl": "https://github.com/anishaaa1/Minimal-Clozes",
+  "id": "MinimalClozesFork",
+  "name": "Minimal Clozes Fork",
+  "author": "Fork by Hugo Marins; original by Anisha",
+  "repoUrl": "https://github.com/hugomarins/Minimal-Clozes",
   "version": {
-    "major": 1,
+    "major": 0,
     "minor": 0,
     "patch": 1
   },
